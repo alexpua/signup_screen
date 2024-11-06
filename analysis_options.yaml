@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    prefer_single_quotes: info
+
+linter:
+  rules:
+    require_trailing_commas: true
+    prefer_single_quotes: true
